@@ -42,9 +42,9 @@ The system automatically handles CAPTCHA by:
 3. Entering it into the verification field
 
 # Error Handling 
-The system detects and handles:\n
-Invalid case numbers
-Website downtime (DNS, TCP, HTTP, Selenium levels)
-CAPTCHA failures
-Network issues
+The system detects and handles:
+**Invalid case numbers**
+**Website downtime (DNS, TCP, HTTP, Selenium levels)**
+**CAPTCHA failures**
+**Network issues**
 
