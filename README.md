@@ -18,6 +18,10 @@ Data extracted from: [https://delhihighcourt.nic.in/](https://delhihighcourt.nic
 - **Database**: SQLite
 - **Containerization**: Docker
 
+### Prerequisites
+- Docker installed
+- ChromeDriver compatible with your Docker Chrome version
+
 # Setup Steps
 1. Clone the repository:
    git clone https://github.com/Jai768/Intern-Task.git
