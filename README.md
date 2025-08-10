@@ -47,8 +47,8 @@ The system automatically handles CAPTCHA by:
 
 # Error Handling 
 The system detects and handles:
--**Invalid case numbers**
--**Website downtime (DNS, TCP, HTTP, Selenium levels)**
--**CAPTCHA failures**
--**Network issues**
+- **Invalid case numbers**
+- **Website downtime (DNS, TCP, HTTP, Selenium levels)**
+- **CAPTCHA failures**
+- **Network issues**
 
